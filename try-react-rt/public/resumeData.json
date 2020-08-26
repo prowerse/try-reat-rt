@@ -1,0 +1,149 @@
+{
+  "main": {
+    "name":"Software Development. Delivered.",
+    "description":"The development of reliable and scalable software solutions for any OS, browser and device. Reduced implementation costs and timely delivery with organized development process, modern methodologies, competencies in cutting-edge technologies, and a rich pool of developers.",
+    "image":"profilepic.png",
+    "bio":"Prowerse believes in a personalized approach to every customer. The selection of development practice is tailored to customer's specific business needs. Be it classical methodologies, such as Waterfall or Prototype development, or modern approaches like Agile, Kanban, Lean or Extreme Programming, Prowerse ensures a timely delivery of the project.",
+    "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
+    "email": "prowerse@outlook.com",
+    "phone": "+91 95375 40795",
+    "address":{
+      "street":"(Your Street)",
+      "city":"(Your City)",
+      "state":"(Your State)",
+      "zip": "(Your Zip/Postal Code)"
+    },
+    "companyvalues":{
+      "people":"People are the focus of fundamental belief at Prowerse. To attract, hire and retain the best talents and provide first-class learning, growing & working experiences is the core Prowerse value.",
+      "journey":"Prowerse passionately believes that moments, experiences, and memories shared by team while on a project delivery must be enjoyable & wholesome. As they say, Happiness is a journey, not a destination.",
+      "progress":"Stay focused on the continuous march toward achieving the milestones, the successes, and the breakthroughs."
+    },
+    "website": "http://www.timbakerdev.com",
+    "resumedownload":"http://timbakerdev.com",
+    "social":[
+      {
+        "name":"twitter",
+        "url":"https://twitter.com/monomorpher",
+        "className":"fa fa-twitter"
+      },
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/pradyumanzala/",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"github",
+        "url":"http://github.com/zalaps",
+        "className":"fa fa-github"
+      },
+      {
+        "name":"skype",
+        "url":"https://join.skype.com/invite/UvafCWMvv1c6",
+        "className":"fa fa-skype"
+      },
+      {
+        "name":"email",
+        "url":"mailto:prowerse@outlook.com",
+        "className":"fa fa-envelope"
+      }
+    ]
+  },
+  "resume":{
+    "education":[
+      {
+        "school":"Enterprise Applications",
+        "description":"Enterprise Applications are large-scale software packages that support business processes, information flows, reporting, and data analytics in complex organizations. Prowerse focuses on Simplicity, Maintainability, Reusability, Decoupling of Technology and Functionality. Prowerse's proven approach of breaking large-scale application in to the small & frequent ship-able deliveries has always made sure that Enterprise Applications are developed with continuous User Feedback."
+      },
+      {
+        "school":"Mobile Applications",
+        "description":"Prowerse brings to life product ideas of native, cross-platform, and hybrid mobile applications, targeting smartphones and tablets. Be it e-commerce experience or geo-tracking of users, Prowerse has delivered such examples with ease of use. Prowerse can participate from concept screen sketching till seamless deployments of Apps to the respective app stores."
+      },
+      {
+        "school":"Web Applications",
+        "description":"Prowerse provides flexible and seamless website development services. Prowerse's approach to design attractive and customer-friendly web designs has helped many businesses to enlarge digital footprint. Prowerse is proud of excellent team of designers & developers, which can collaborate with you during the journey of concept to website hosting."
+      }
+    ],
+    "work":[
+      {
+        "company":"Staff augmentation",
+        "description":"Fill in the skill gap of in-house resources with the best Prowerse offshore talents assigned to projects full-time and managed by you directly. Prowerse provides staff augmentation services to speed up development and optimize development costs."
+      },
+      {
+        "company":"Dedicated team",
+        "description":"Expand your software development capabilities and minimize management efforts with a dedicated Prowerse development team managed by a PM from Prowerse who regularly reports to you and collaborates on all important decisions in the project."
+      }
+    ],
+    "skills":[
+      {
+        "name":"Clouds",
+        "stacknames":"Amazon Web Services, Microsoft Azure, Google Cloud Platform"
+      },
+      {
+        "name":"Backends",
+        "stacknames":"Microsoft .Net & .Net Core, Java, PHP, Node.js, Python"
+      },
+      {
+        "name":"Web",
+        "stacknames":"Angular, React, Vue, ASP.NET"
+      },
+      {
+        "name":"UI Bundles",
+        "stacknames":"Bootstrap, Materialize, Semantic, PureCSS, FluentUI"
+      },
+      {
+        "name":"Databases",
+        "stacknames":"MSSQL, MYSQL, MongoDB, Redis, Cassandra, Azure CosmosDB, AWS DynamoDB"
+      },
+      {
+        "name":"DevOps",
+        "stacknames":"Azure Pipelines, TeamCity, Kubernetes, Jenkins, Docker"
+      },
+      {
+        "name":"AI/ML",
+        "stacknames":"Azure ML, LUIS, BOT Framework, TensorFlow"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"Canadian Wanderlust",
+        "category":"My Travel Blog for my post-university travels",
+        "image":"canadian-wanderlust.jpg",
+        "url":"https://www.canadianwanderlust.com"
+      },
+      {
+        "title":"Fury Fighting Gear",
+        "category":"(offline now) A fighting gear company I started",
+        "image":"fury-fighting-gear.jpg",
+        "url":"http://www.timbakerdev.com"
+      },
+      {
+        "title":"Original Thai Food",
+        "category":"Website I built for a restaurant I like in Thailand",
+        "image":"original-thai-food.jpg",
+        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
+      },
+      {
+        "title":"Resume Website",
+        "category":"A React based resume website template",
+        "image":"resume-website.jpg",
+        "url":"http://www.timbakerdev.com"
+      },
+      {
+        "title":"Smirkspace",
+        "category":"(MVP Only) A React and Meteor based chat University project.",
+        "image":"smirkspace.jpg",
+        "url":"http://www.smirkspace.com"
+      }
+    ]
+  },
+  "testimonials":{
+    "testimonials":[
+      {
+        "text":"The wonderful team effort of Prowerse helped me get ready for market in time. With their professionalism, prompt response and courteous service, I was able to design wonderful and innovative web applications that will break new ground in the logistics industry. My experience was positive and unsurpassed. I am looking forward to developing my next project with the wonderful team at Prowerse. Doing business has never been so efficient and so pleasant!",
+        "user":"Cornelius Le Roux, CTO - Some Company"
+      }
+    ]
+  }
+}
