@@ -5,7 +5,7 @@
     "image":"profilepic.png",
     "bio":"Prowerse believes in a personalized approach to every customer. The selection of development practice is tailored to customer's specific business needs. Be it classical methodologies, such as Waterfall or Prototype development, or modern approaches like Agile, Kanban, Lean or Extreme Programming, Prowerse ensures a timely delivery of the project.",
     "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
-    "email": "prowerse@outlook.com",
+    "email": "info@prowerse.com",
     "phone": "+91 95375 40795",
     "address":{
       "street":"(Your Street)",
@@ -22,28 +22,18 @@
     "resumedownload":"http://timbakerdev.com",
     "social":[
       {
-        "name":"twitter",
-        "url":"https://twitter.com/monomorpher",
-        "className":"fa fa-twitter"
-      },
-      {
         "name":"linkedin",
-        "url":"https://www.linkedin.com/in/pradyumanzala/",
+        "url":"https://www.linkedin.com/company/prowerse/",
         "className":"fa fa-linkedin"
       },
       {
         "name":"github",
-        "url":"http://github.com/zalaps",
+        "url":"http://github.com/prowerse",
         "className":"fa fa-github"
       },
       {
-        "name":"skype",
-        "url":"https://join.skype.com/invite/UvafCWMvv1c6",
-        "className":"fa fa-skype"
-      },
-      {
         "name":"email",
-        "url":"mailto:prowerse@outlook.com",
+        "url":"mailto:info@prowerse.com",
         "className":"fa fa-envelope"
       }
     ]
@@ -142,7 +132,7 @@
     "testimonials":[
       {
         "text":"The wonderful team effort of Prowerse helped me get ready for market in time. With their professionalism, prompt response and courteous service, I was able to design wonderful and innovative web applications that will break new ground in the logistics industry. My experience was positive and unsurpassed. I am looking forward to developing my next project with the wonderful team at Prowerse. Doing business has never been so efficient and so pleasant!",
-        "user":"Cornelius Le Roux, CTO - Some Company"
+        "user":"CTO - Leading European Technology Company."
       }
     ]
   }
