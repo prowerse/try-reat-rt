@@ -21,12 +21,13 @@ class Header extends Component {
     return (
       <header id="home">
         <nav id="nav-wrap">
-          <img className="logov1"
+          <img
+            className="logov1"
             src="..\images\logov1.png"
             alt="Prowerse"
-            width="100"      
-            align="left"      
-           ></img>
+            width="100"
+            align="left"
+          ></img>
           <a className="mobile-btn" href="#nav-wrap" title="Show navigation">
             Show navigation
           </a>
@@ -50,7 +51,11 @@ class Header extends Component {
                 Services
               </a>
             </li>
-            {/* <li><a className="smoothscroll" href="#portfolio">Works</a></li> */}
+            <li>
+              <a className="smoothscroll" href="#portfolio">
+                Team
+              </a>
+            </li>
             <li>
               <a className="smoothscroll" href="#testimonials">
                 Testimonials

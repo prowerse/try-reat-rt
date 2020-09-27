@@ -3,12 +3,17 @@ import React, { Component } from "react";
 class Testimonials extends Component {
   render() {
     if (this.props.data) {
-      var testimonials = this.props.data.testimonials.map(function (testimonials) {
+      var testimonials = this.props.data.testimonials.map(function (
+        testimonials
+      ) {
         return (
-         <div key={testimonials.user}>
-            <p className="justified">{testimonials.text}</p>
-            <cite>{testimonials.user}</cite>
-         </div>
+          <div key={testimonials.user}>
+            <p className="justified">
+              {testimonials.text}
+              <br></br>
+              <b>{testimonials.user}</b>
+            </p>
+          </div>
         );
       });
     }

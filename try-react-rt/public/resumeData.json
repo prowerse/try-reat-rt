@@ -97,42 +97,34 @@
   "portfolio":{
     "projects": [
       {
-        "title":"Canadian Wanderlust",
-        "category":"My Travel Blog for my post-university travels",
+        "title":"Robin Abrol",
+        "category":"Director - Strategic Alliances",
         "image":"canadian-wanderlust.jpg",
-        "url":"https://www.canadianwanderlust.com"
+        "url":"https://www.linkedin.com/in/robin-abrol-0963471b5/"
       },
       {
-        "title":"Fury Fighting Gear",
-        "category":"(offline now) A fighting gear company I started",
+        "title":"Harry Roy",
+        "category":"Chief People Officer",
         "image":"fury-fighting-gear.jpg",
-        "url":"http://www.timbakerdev.com"
+        "url":"https://www.linkedin.com/in/harry-roy-4321931b6/"
       },
       {
-        "title":"Original Thai Food",
-        "category":"Website I built for a restaurant I like in Thailand",
-        "image":"original-thai-food.jpg",
-        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
-      },
-      {
-        "title":"Resume Website",
-        "category":"A React based resume website template",
-        "image":"resume-website.jpg",
-        "url":"http://www.timbakerdev.com"
-      },
-      {
-        "title":"Smirkspace",
-        "category":"(MVP Only) A React and Meteor based chat University project.",
-        "image":"smirkspace.jpg",
-        "url":"http://www.smirkspace.com"
+        "title":"Patrick Chera",
+        "category":"Principal Consultant",
+        "image":"patrick-chera.jpg",
+        "url":"https://www.linkedin.com/in/patrick-chera/"
       }
     ]
   },
   "testimonials":{
     "testimonials":[
       {
-        "text":"The wonderful team effort of Prowerse helped me get ready for market in time. With their professionalism, prompt response and courteous service, I was able to design wonderful and innovative web applications that will break new ground in the logistics industry. My experience was positive and unsurpassed. I am looking forward to developing my next project with the wonderful team at Prowerse. Doing business has never been so efficient and so pleasant!",
-        "user":"CTO - Leading European Technology Company."
+        "text":"The initial expectations set were too hard to believe and sounded like a sales pitch. The journey thereafter was fun-filled and more ups than downs. At the end, we got what we asked for. A well-cooked and tested interface through using Angular, node. We'll look forward to repeating success with Prowerse on more opportunities.",
+        "user":"Vicente, CIO, A product development company from Spain"
+      },
+      {
+        "text":"On time delivery and importantly at agreed costs. It was a simple task but I know a few out there that would have screwed it. Was also good to have single delivery spoc even after having Prowerse work on the mobile and web parts. Delighted to say the least.",
+        "user":"Angelique, MD, Marketing Agency from Australia"
       }
     ]
   }
