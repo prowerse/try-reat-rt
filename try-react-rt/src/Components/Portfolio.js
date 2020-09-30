@@ -13,11 +13,11 @@ class Portfolio extends Component {
                 <div className="overlay">
                   <div className="portfolio-item-meta">
                     <h5>{projects.title}</h5>
-                    <p>{projects.category}</p>
+                    <h5>{projects.category}</h5>
                   </div>
                 </div>
                 <div className="link-icon">
-                  <i className="fa fa-link"></i>
+                  <i className="fa fa-linkedin"></i>
                 </div>
               </a>
             </div>
@@ -34,7 +34,7 @@ class Portfolio extends Component {
 
             <div
               id="portfolio-wrapper"
-              className="bgrid-quarters s-bgrid-thirds cf"
+              className="bgrid-thirds s-bgrid-thirds cf"
             >
               {projects}
             </div>
