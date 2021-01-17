@@ -17,11 +17,23 @@ class Contact extends Component {
       "London - UB3 4QJ",
     ];
 
+    if (this.props.data) {
+      var networks = this.props.data.social.map(function (network) {
+        return (
+          <li key={network.name}>
+            <a href={network.url}>
+              <i className={network.className}></i>
+            </a>
+          </li>
+        );
+      });
+    }
+
     return (
       <section id="contact">
         <div className="row">
           <div className="twelve columns main-col">
-            <h2>Offices</h2>
+            <h2>Contact Us</h2>
             <div className="row">
               <div className="twelve columns">
                 <div className="row">
@@ -34,6 +46,18 @@ class Contact extends Component {
                     <p>{uk}</p>
                   </div>
                 </div>
+
+                
+                <div className="row">
+                  <div className="twelve columns">
+                    <ul>
+                      <h3>Connect</h3>
+                    </ul>
+                    <ul className="social-links">{networks}</ul>
+                  </div>
+                </div>
+                
+
               </div>
             </div>
           </div>

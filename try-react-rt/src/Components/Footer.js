@@ -17,15 +17,9 @@ class Footer extends Component {
     return (
       <footer>
         <div className="row">
-          <div className="twelve columns">
-            <ul>
-              <h2 className="footer">Contact Us</h2>
-            </ul>
-            <ul className="social-links">{networks}</ul>
-
+          <div className="twelve columns">            
             <ul className="copyright">
               <li>&copy; Copyright @ Prowerse Tech LLP</li>
-              {/* <li>Design by <a title="Styleshout" href="http://www.styleshout.com/">Styleshout</a></li> */}
             </ul>
           </div>
 
