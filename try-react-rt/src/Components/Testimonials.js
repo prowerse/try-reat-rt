@@ -23,7 +23,7 @@ class Testimonials extends Component {
         <div className="row">
           <div className="nine columns main-col">
             <br />
-            <h3>Testimonials</h3>
+            <h2>Testimonials</h2>
             <div className="row item">
               <div className="twelve columns">{testimonials}</div>
             </div>
