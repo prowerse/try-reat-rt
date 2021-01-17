@@ -20,14 +20,10 @@ class Testimonials extends Component {
 
     return (
       <section id="testimonials">
-        <div className="row education">
-          <div className="two columns header-col">
-            <h1>
-              <span>Testimonials</span>
-            </h1>
-          </div>
-
+        <div className="row">
           <div className="nine columns main-col">
+            <br />
+            <h3>Testimonials</h3>
             <div className="row item">
               <div className="twelve columns">{testimonials}</div>
             </div>

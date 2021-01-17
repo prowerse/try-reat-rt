@@ -7,7 +7,7 @@
     "bio":"Prowerse believes in a personalized approach to every customer. The selection of development practice is tailored to customer's specific business needs. Be it classical methodologies, such as Waterfall or Prototype development, or modern approaches like Agile, Kanban, Lean or Extreme Programming, Prowerse ensures a timely delivery of the project.",
     "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
     "email": "info@prowerse.com",
-    "phone": "+91 95375 40795",
+    "phone": "+91 95374 85017",
     "address":{
       "street":"(Your Street)",
       "city":"(Your City)",
@@ -36,6 +36,11 @@
         "name":"email",
         "url":"mailto:info@prowerse.com",
         "className":"fa fa-envelope"
+      },
+      {
+        "name":"call",
+        "url":"callto:+919537485017",
+        "className":"fa fa-phone"
       }
     ]
   },
