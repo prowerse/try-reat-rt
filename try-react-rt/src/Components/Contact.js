@@ -33,7 +33,7 @@ class Contact extends Component {
       <section id="contact">
         <div className="row">
           <div className="twelve columns main-col">
-            <h2>Contact Us</h2>
+            <h2>Offices</h2>
             <div className="row">
               <div className="twelve columns">
                 <div className="row">
@@ -47,17 +47,12 @@ class Contact extends Component {
                   </div>
                 </div>
 
-                
                 <div className="row">
                   <div className="twelve columns">
-                    <ul>
-                      <h3>Connect</h3>
-                    </ul>
-                    <ul className="social-links">{networks}</ul>
+                    <h3>Contact Us</h3>
+                    <ul className="social">{networks}</ul>
                   </div>
                 </div>
-                
-
               </div>
             </div>
           </div>
